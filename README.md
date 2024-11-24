@@ -11,11 +11,11 @@ This project is designed for motor unit tracking and includes the workflow for m
 
 ## Downloading the Repository
 
-To get started with the project, user can download from GitHub (to easily copy website address below, view this .md file at the [GitHub repository](https://github.com/YuxiZheng123/Motor-Unit-Tracking-Workflow.git)):
+To get started with the project, user can download from GitHub (to easily copy website address below, view this .md file at the [GitHub repository](https://github.com/YuxiZheng123/MU_Tracking_Scripts.git)
 
 ### Download the Repository
 
-1. Visit the [GitHub repository](https://github.com/YuxiZheng123/Motor-Unit-Tracking-Workflow.git).
+1. Visit the [GitHub repository](https://github.com/YuxiZheng123/MU_Tracking_Scripts.git).
 2. Click on the green **Code** button.
 3. Select **Download ZIP**.
 4. Extract the ZIP file to desired directory.
