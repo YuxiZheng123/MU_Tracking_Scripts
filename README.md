@@ -52,4 +52,4 @@ To avoid package conflicts and ensure a consistent environment, it is recommende
    
 ## Run Program
 
-Users can directly run the three scripts, Pre_processing_gui.py, MU_tracking.py, and Post_processing_gui.py, individually based on their needs.
+Users can directly run the three scripts, Pre_processing_gui.py, MU_tracking.py, and Post_analysis_gui.py, individually based on their needs.
